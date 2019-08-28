@@ -1,2 +1,2 @@
 # anna.site
-https://annamatias.github.io/anna.site/index.html
+https://annamatias.github.io/anna.site/
